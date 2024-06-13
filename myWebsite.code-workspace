@@ -2,10 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"name": "Ozon",
-			"path": "../../PlatformIO/Projects/Ozon"
 		}
 	],
 	"settings": {}
